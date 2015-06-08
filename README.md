@@ -1,13 +1,7 @@
-+ 소프트웨어 개발 프로세스 
-+======================
-+개발 흐름 정의
-+---
-+![사진 1][dev_process]
-+[dev_process]: http://www.mimul.com/pebble/default/images/blog/Projects/dev_process.png
-+
-+---
-+#### 1. 개발자 
-+1.1 소프트웨어 개발자 되기 
-++   개발자 되기 
-+
-+1.2 프로젝트 관리자 
+-# dev-environment
+-# 개발환경에 필요한 문서들을 기록하여 신규 프로젝트 투입자나 입사자에게 낭비되는 시간을 없애도록 하는게 목표며 항상 최신상태로 업데이트 함.
+-# git 사용법 추가
+-# trello, github, slack을 통한 개발 프로세스 가이드 추가
+-# inttllij, sublime, vim 사용법 추가(코드 리뷰 추가)
+-# Selenium 자동 테스트 추가
+-# Selenium 자동 테스트 리뷰 수정내용 추가(Singleton Pattern추가)
